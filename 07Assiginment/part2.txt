@@ -1,0 +1,7 @@
+Write an essay on the importance of web development in today's digital world, and the impact it has on society and businesses. Discuss how web development has evolved over time, and what the future holds for web developers.
+
+
+Ans:
+Web development is the process of creating and maintaining websites and web applications using various technologies and tools. Web development is important in today’s digital world because it enables people and businesses to communicate, share information, and perform various tasks online. Web development has a significant impact on society and businesses, as it affects how we access information, interact with each other, and conduct transactions.
+
+Web development has evolved over time, from the invention of the World Wide Web in 1989 by Tim Berners-Lee at CERN1, to the emergence of dynamic and interactive web applications using various languages and frameworks. 

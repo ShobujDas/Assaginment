@@ -1,0 +1,29 @@
+1.What is client-side and server-side in web development, and what is the main difference between the two?
+
+1)Ans:   Client-side refers to everything in a web application that is displayed or takes place on the user’s device, such as text, images, and user interactions. Server-side refers to everything that happens on the web server that hosts the application, such as data processing, storage, and retrieval.
+The main difference between client-side and server-side is that client-side code runs on the user’s browser, while server-side code runs on the server.
+
+
+
+2.What is an HTTP request and what are the different types of HTTP requests?
+
+2)Ans:  An HTTP request is a message that a client sends to a server to request a resource. An HTTP request consists of a URL that identifies the target resource, a method that defines the desired action, and optionally some additional information such as headers or a body.
+There are different types of HTTP requests, they are the GET, POST, PUT , DELETE
+
+
+
+
+3.What is JSON and what is it commonly used for in web development?
+ 
+3)Ans:  JSON is self-describing and easy to understand. It can include the same basic data types as JavaScript, such as strings, numbers, arrays, booleans, and objects. JSON has some rules for its syntax, such as using double quotes for property names and values, and using commas to separate name/value pairs and array elements
+
+
+4.What is a middleware in web development, and give an example of how it can be used.
+  
+4)Ans: Middleware is the software that sits between the applications and the operating system.
+An example of how middleware can be used in web development is Express.js, a popular web application framework for Node.js. Express.js provides a set of middleware functions that developers can use to handle requests and responses in their web applications. 
+
+
+5.What is a controller in web development, and what is its role in the MVC architecture?
+
+5)Ans:  A controller in web development is a component that handles the user requests and performs the appropriate actions based on the user input or the application state1. A controller is part of the Model-View-Controller (MVC) architecture, which is a design pattern that separates an application into three main groups of components: models, views, and controllers2.
